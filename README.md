@@ -23,3 +23,10 @@ npm install babel-eslint --save-dev
 ```
 
 Also you need to copy `.eslintrc.yml` from JS101 folder and put it in the project root folder.
+
+Files to be included in .gitignore
+```
+package-lock.json
+node_modules/*
+.vscode/*
+```
